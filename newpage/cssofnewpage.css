@@ -45,10 +45,11 @@ footer {
 @media (max-width: 770px) {
     div {
         width: 80%;
-        height: 90%;
     }
     header {
         font-size: 10px;
     }
-    
+    img {
+    max-width: 60%;
+    }
 }
