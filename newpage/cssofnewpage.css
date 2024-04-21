@@ -46,6 +46,7 @@ footer {
     div {
         width: 80%;
         margin-bottom: 5px;
+        margin-top: 5px;
         max-height: 90vh;
         font-size: 13px;
     }
