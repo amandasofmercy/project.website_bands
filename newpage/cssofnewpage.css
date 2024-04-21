@@ -12,7 +12,7 @@ header {
     background-color: #36183a;
     color: white;
     text-align: center;
-    
+    font-style: italic;
 }
 section {
     display: flex;
@@ -44,6 +44,9 @@ footer {
 
 @media (max-width: 770px) {
     div {
-        width: 90%;
+        width: 80%;
+    }
+    header {
+        font-size: 20px;
     }
 }
