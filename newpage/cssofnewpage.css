@@ -44,9 +44,10 @@ footer {
 
 @media (max-width: 770px) {
     div {
-        width: 80%;
+        width: 40%;
     }
     header {
-        font-size: 20px;
+        font-size: 10px;
     }
+    
 }
