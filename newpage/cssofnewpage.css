@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    background-color: rgb(19, 19, 50);
+    background-color: black;
     margin: 0;
     padding: 0;
 }
@@ -20,11 +20,12 @@ section {
     justify-content: space-around;
 }
 div {
-    background-color: blueviolet;
+    background-color: purple;
     color: white;
     padding: 10px;
     margin-bottom: 20px;
     width: 45%;
+    text-align: center;
     box-sizing: border-box;
     font-size: medium;
     font-style: italic;
@@ -43,6 +44,6 @@ footer {
 
 @media (max-width: 770px) {
     div {
-        width: 100%
+        width: 90%;
     }
 }
