@@ -1,51 +1,51 @@
 @charset "UTF-8";
 
 body {
-    background-color: rgb(0, 0, 28);
-    margin: 0;
-    padding: 0;
+    background-color: rgb(0, 0, 28); 
+    margin: 0; /* margem do corpo da página */
+    padding: 0; /* preenchimento do corpo da página */
 }
 header, section {
-    padding: 20px;
+    padding: 20px; /* preenchimento interno definido com 20 pixels */
 }
 header {
     background-color: rgb(20, 20, 33);
     color: white;
-    text-align: center;
-    font-style: italic;
+    text-align: center; /* alinha o texto ao centro */
+    font-style: italic; /* definição do estilo da fonte */
 }
 section {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+    display: flex; /* definição do contêiner flexível */
+    flex-wrap: wrap; /* quebra de elementos dentro da seção para a próxima linha conforme necessário */
+    justify-content: space-around; /* alinhamento de itens da seção com espaçamento entre os mesmos */
 }
 div {
     background-color: midnightblue;
     color: white;
-    padding: 10px;
-    margin-bottom: 20px;
-    width: 35%;
+    padding: 10px; /* preenchimento interno definido com 10 pixels */
+    margin-bottom: 20px; /* definição de margem interior com 20 pixels */
+    width: 35%; /* definição da largura como 35% da largura do contêiner pai */
     text-align: center;
-    box-sizing: border-box;
-    font-size: medium;
+    box-sizing: border-box; /* definição de caixa de modelo como inclusão de borda e preenchimento no tamanho total */
+    font-size: medium; 
     font-style: italic;
 }
 img {
-    max-width: 100%;
-    height: auto;
+    max-width: 100%; /* definição da largura máxima como 100% do contêiner pai */
+    height: auto; /* mantém a proporção da imagem automaticamente */
 }
 footer {
-    margin-top: auto;
+    margin-top: auto; /* definição da margem superior do rodapé como automática para permanecer na parte inferior da página */
     text-align: center;
     background-color: rgb(45, 45, 70);
     color: white;
-    padding: 10px 0;
+    padding: 10px 0; /* definição do preenchimento do rodapé como 10 pixels na parte superior e inferior e como 0 nas laterais */
 }
-
+/* alterações para telas com larguras menores que 770 pixels */
 @media (max-width: 770px) {
     div {
         width: 80%;
-        max-height: 85vh;
+        max-height: 85vh; /* definição da altura máxima como 85% da altura da viewport*/
         font-size: 10px;
     }
     header {
