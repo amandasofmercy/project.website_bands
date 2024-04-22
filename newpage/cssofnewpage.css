@@ -37,8 +37,8 @@ img {
 footer {
     margin-top: auto;
     text-align: center;
-    background-color: black;
-    color: yellow;
+    background-color: rgb(45, 45, 70);
+    color: white;
     padding: 10px 0;
 }
 
