@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    background-color: black;
+    background-color: midnightblue;
     margin: 0;
     padding: 0;
 }
@@ -9,7 +9,7 @@ header, section {
     padding: 20px;
 }
 header {
-    background-color: #36183a;
+    background-color: rgb(20, 20, 33);
     color: white;
     text-align: center;
     font-style: italic;
