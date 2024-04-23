@@ -54,4 +54,6 @@ footer {
     img {
         max-width: 45%;
     }
+    footer {
+        padding: 5px;
 }
