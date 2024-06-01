@@ -1,4 +1,4 @@
-Esse projeto de site foi desenvolvido como um projeto acadêmico, tem a finalidade de mostrar meu interesse pela responsividade e criatividade no desenvolvimento de websites com as ferramentas HTML e CSS. 
+Esse projeto de site foi desenvolvido como projeto acadêmico, tem a finalidade de mostrar meu interesse pela responsividade e criatividade no desenvolvimento de websites com as ferramentas HTML e CSS. Foi o primeiro trabalho da disciplina de Desenvolvimento de Aplicações I.
 O tema que me cativa e foi escolhido, que inicialmente seria individual para cada acadêmico, é a demonstração de 2 bandas de Rock e 2 bandas de Darkwave.
 Primeiro, o usuário acessa o site com HTML puro, no qual não tem design definido. Ao fim da página, no rodapé, há um link no qual o usuário pode clicar, para ver a mesma página com o visual criado e ainda com a responsividade.
 O site demonstra as habilidades em front-end, e também destaca a importância da adaptabilidade de websites a diferentes resoluções de telas, considerando preferências de usuários e até mesmo enfatizando a evolução da tecnologia.
